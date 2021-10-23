@@ -64,6 +64,16 @@ h3{
     letter-spacing: 2px;
     color: yellow;
 }
+footer{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    font-size: 1rem;
+}
+footer i{
+    color: white;
+    margin: 0 0.5rem;
+}
 @media (max-width:400px){
     #input-wrapper{
         display: flex;
