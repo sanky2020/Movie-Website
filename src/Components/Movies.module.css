@@ -63,3 +63,15 @@ h3{
     letter-spacing: 2px;
     color: yellow;
 }
+@media (max-width:400px){
+    #input-wrapper{
+        display: flex;
+        flex-direction: column;
+    }
+    h1,#input{
+        width: 80%;
+    }
+    .card{
+        width: 40%;
+    }
+}
