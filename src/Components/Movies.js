@@ -48,6 +48,14 @@ export default class Movies extends Component {
                             </article>
                 }): <h3>Movie Not Found...<br/>Enter a Valid Name..!</h3> }
                 </div>
+                <footer>
+                    Copyright @2021<br/>Creator - Sanky2020<br/>Connect<br/>
+                    <a href="https://www.linkedin.com/in/sanket-kadam-3862ba144/"><i className="fab fa-linkedin-in"></i></a>
+                    <a href="https://codepen.io/sanky2020"><i className="fab fa-codepen"></i></a>
+                    <a href="https://github.com/sanky2020"><i className="fab fa-github"></i></a>
+                    <a href="https://www.instagram.com/saankyy"><i className="fab fa-instagram"></i></a>
+                    
+                </footer>
             </div>
         )
     }
