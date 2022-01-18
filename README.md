@@ -1,4 +1,7 @@
 Live Preview => https://live-movie-webapp.vercel.app/
+Stacks used => Html, Css, Javascript, React
+
+Real time search functionality implemented for every character being fed. Rendered the movie cards on UI according to the search results fetched by the API.
 
 # Getting Started with Create React App
 
